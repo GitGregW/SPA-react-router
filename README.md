@@ -3,3 +3,8 @@
 
 React - The Complete Guide 2024 (incl. React Router & Redux)
 - SPA dummy events app using React Router
+
+- created pages directory for routing of Page.js files
+- Apply NavLinks to Navigate components and dynamically maintain css classes
+- Apply Link tags for path/components
+- Display child components through the imported 'Outlet' router component
